@@ -204,5 +204,24 @@ header nav {
     margin-left: 150px;
     width: 400px;
   }
+
+  .work {
+    margin-right: 175px;
+    width: 400px;
+  }
+  
+  .office {
+    margin-left: 150px;
+    width: 400px;
+  }
+  
+  .collaboration {
+    margin-right: 140px;
+    width: 400px;
+  }
+  
+  .together {
+    display: flex;
+  }
   
   
