@@ -194,5 +194,10 @@ header nav {
   .title {
     display: flex;
   }
+
+  .about {
+    display: flex;
+    width: 900px;
+  }
   
   
