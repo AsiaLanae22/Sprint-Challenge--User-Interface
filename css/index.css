@@ -238,6 +238,19 @@ header nav {
     width: 90%;
     margin-left: 50px;
   }
+
+  .about-top {
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+  
+  section.top-content-about,
+  section.middle-content-about,
+  section.bottom-content-about {
+    display: flex;
+    margin-left: 150px;
+  }
   
   
   
