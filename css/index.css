@@ -224,4 +224,20 @@ header nav {
     display: flex;
   }
   
+  .paragraph {
+    display: flex;
+    width: 900px;
+    margin-top: 50px;
+  }
+  
+  img.highway {
+    margin-left: 275px;
+  }
+  
+  img.city {
+    width: 90%;
+    margin-left: 50px;
+  }
+  
+  
   
