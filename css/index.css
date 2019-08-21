@@ -199,5 +199,10 @@ header nav {
     display: flex;
     width: 900px;
   }
+
+  .strategy {
+    margin-left: 150px;
+    width: 400px;
+  }
   
   
